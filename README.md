@@ -7,4 +7,13 @@ GitHub is a Git repository hosting service, but it adds many of its own features
 
 Please keep all Xerxes Blockchain Group documentation on this site to avoid version control issues, especially around speaking engagement and coin development projects.
 
+The Xerxes Blockchain Group WIKI can be found here:
+https://github.com/XerxesBlockchainGroup/Xerxes-Blockchain-Group/wiki
+
+Speaking Engagement Project:
+https://github.com/XerxesBlockchainGroup/Xerxes-Blockchain-Group/projects/1
+
+Xerxes Coin Development Project:
+https://github.com/XerxesBlockchainGroup/Xerxes-Blockchain-Group/projects/2
+
 
