@@ -1,0 +1,90 @@
+Xerxes Blockchain
+
+*** Everyone
+
+- Find other groups doing similar things to aspire to -> leverage from -> partner with
+https://lion.network/
+https://www.fintechportfolio.com/
+
+- Attend User Groups
+
+- Sign-up for github, join github project, learn how to use github
+https://github.com/xerxes612/Xerxes-Blockchain-Group
+
+- Determine Xerxes Blockchain Strategy
+
+- Determine Xerxes Blockchain Roadmap
+
+- Develop talks for speaking engagements
+https://www.pandadoc.com/speaking-engagement-proposal-template/
+https://oratium.com/how-to-write-a-conference-speaking-or-session-proposal-that-gets-chosen-every-time/
+
+*** Website Development
+
+- Wordpress - twitter feed widget
+
+- Wordpress - bitcoin eth price widget
+
+- Wordpress - sales banner
+
+- Wordpress - upgrade to premium Wordpress
+
+- Wordpress - add access to members for blog
+
+- Github - Develop github structure
+
+*** Blockchain Technology Development
+
+- Create Coin Roadmap
+
+- Implement ICO - white paper through implementation and ongoing maintenance of cryptocurrency on blockchain network.
+
+- Create Coin Roadmap
+
+- Implement ERC-20 Ethereum based token
+
+- Create wallet roadmaps
+
+- Implement wallet for coin
+
+- Implement wallet for ERC-20 Ethereum based token
+
+*** Sales
+
+- Develop Sales Strategy - How do we monetize this?
+
+- Research presentation pricing models
+
+- Develop relationships with people or groups that can partner with us in investment and SMEs to create presentations we sell
+
+*** Strategy / Program Management
+
+- Develop program frameworks - resource needs, roadmaps, etc...
+
+- Research presentations opportunities - what's hot, what's needed
+
+- Learn how to use github
+
+- Take ownership or organization and creating githib governance
+
+*** Legal Counsel
+
+- Create Tax Documentation for investors
+
+- Create Business Documentation for compliance and liability
+
+*** Marketing and Brand Management
+
+- Develop talks for speaking engagements
+
+- Study how to build twitter and facebook followers
+
+- Develop Facebook Presence
+
+- Develop Twitter Presence
+
+
+
+
+
+
