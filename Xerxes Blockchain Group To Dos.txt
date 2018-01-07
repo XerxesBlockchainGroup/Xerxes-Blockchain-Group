@@ -9,7 +9,7 @@ https://www.fintechportfolio.com/
 - Attend User Groups
 
 - Sign-up for github, join github project, learn how to use github
-https://github.com/xerxes612/Xerxes-Blockchain-Group
+https://github.com/XerxesBlockchainGroup/Xerxes-Blockchain-Group
 
 - Determine Xerxes Blockchain Strategy
 
