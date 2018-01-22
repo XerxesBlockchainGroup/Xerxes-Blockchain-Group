@@ -7,7 +7,7 @@ Please keep all Xerxes Blockchain Group documentation on this site to avoid vers
 
 The Xerxes Blockchain Group public facing website can be found here:
 
-https://xerxesblockchain.wordpress.com/
+https://xerxesblockchain.com/
 
 The Xerxes Blockchain Group WIKI can be found here:
 
